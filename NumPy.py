@@ -16,14 +16,5 @@ arr4 = np.array([[4,2],[3,6]])
 print(np.matmul(arr3,arr4))
 print(det(arr4))
 print(inv(arr4))
-
-# 1 2    4 2 
-# 3 4    3 6 
-
-
-# 6 -2
-# -3 4
-
-# 0.33  -1.94 
-# -2.95 0.2 
+print("hello")
 
