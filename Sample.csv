@@ -1,7 +1,8 @@
-Company,Contact,Country
-Alfreds Futterkiste,Maria Anders,Germany
-Centro comercial Moctezuma,Francisco Chang,Mexico
-Ernst Handel,Roland Mendel,Austria
-Island Trading,Helen Bennett,UK
-Laughing Bacchus Winecellars,Yoshi Tannamuri,Canada
-Magazzini Alimentari Riuniti,Giovanni Rovelli,Italy
+Name,City,Age,Company,Salary
+Karthik,Vanavasi,35,Zensar,-8000
+Mana,Madurai,43,DXC,2000
+Arun,Salem,36,Virtusa,3000
+Bhoopathi,Salem,34,Verison,4000
+Logu,Elampillai,32,HCL,5000
+Murali,Salem,32,TCS,6000
+SK,Elampillai,33,TCS,-9000

@@ -1,0 +1,15 @@
+2025-10-03 18:07:08,437 - DEBUG    - Debug started for developer
+2025-10-03 18:07:08,437 - INFO     - File read started
+2025-10-03 18:07:08,439 - INFO     - File read ended
+2025-10-03 18:07:08,439 - WARNING  - Divide value is zero
+2025-10-03 18:07:08,439 - ERROR    - Can't divide by zero
+2025-10-03 18:07:18,138 - DEBUG    - Debug started for developer
+2025-10-03 18:07:18,139 - INFO     - File read started
+2025-10-03 18:07:18,139 - INFO     - File read ended
+2025-10-03 18:07:18,140 - WARNING  - Divide value is zero
+2025-10-03 18:07:18,140 - ERROR    - Can't divide by zero
+2025-10-04 13:43:18,100 - DEBUG    - Debug started for developer
+2025-10-04 13:43:18,101 - INFO     - File read started
+2025-10-04 13:43:18,108 - INFO     - File read ended
+2025-10-04 13:43:18,211 - WARNING  - Divide value is zero
+2025-10-04 13:43:18,212 - ERROR    - 10 can't divide by zero
